@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060576e2ffb933b46a66439d7ff36aed, type: 3}
+  m_Name: Frostbolt
+  m_EditorClassIdentifier: 
+  spellName: Frostbolt
+  spellInfo: Throws a frostbolt
+  spellPrefab: {fileID: 100000, guid: 4e7aae337fa2a7349b697ad0f547b05d, type: 2}
+  spellCollisionParticle: {fileID: 100004, guid: 8fa1a412dfb57b244b52a48d06cf5148,
+    type: 2}
+  dotEffect: {fileID: 0}
+  spellIcon: {fileID: 0}
+  spellManaCost: 20
+  spellMinDamage: 12
+  spellMaxDamage: 24
+  projectileSpeed: 20
+  dotDamage: 0
+  dotSeconds: 0
+  dotTick: 0
+  minBuffAmount: 0
+  maxBuffAmount: 0
+  spellCastTime: 3
+  slowDuration: 3
+  spellType: 0
+  spellDirection: 0
+  buffType: 0
+  spellFlag: 0
+  spellPosition: 0
+  spellCategory: 1
